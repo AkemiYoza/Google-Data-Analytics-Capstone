@@ -1,7 +1,7 @@
 # Google-Data-Analytics-Capstone
-** Final project - Cyclistic bike-share analysis **
+**Final project - Cyclistic bike-share analysis**
 
-** Scenario **
+**Scenario**
 
 * Cyclistic: A bike-share program that features more than 5,800 bicycles and 600
 docking stations. Cyclistic sets itself apart by also offering reclining bikes, hand
@@ -20,4 +20,4 @@ Cyclistic achieve them.
 * Cyclistic executive team: The notoriously detail-oriented executive team will decide
 whether to approve the recommended marketing program.
 
-** Question to answer: How do annual members and casual riders use Cyclistic bikes differently?**
+**Question to answer: How do annual members and casual riders use Cyclistic bikes differently?**
